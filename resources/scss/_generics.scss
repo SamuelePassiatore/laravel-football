@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+
+.main-card {
+    border-radius: 20px;
+    box-shadow: 0 0 5px #dedede;
+}
+
+.name-list {
+    color: black;
+    
+    &:hover {
+        color: dodgerblue;
+    }
+}
